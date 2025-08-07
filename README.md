@@ -12,6 +12,7 @@ I recommend having the slides from the lectures and [the p5.js reference](https:
 You have already completed most of this practical... there's only one exercise in this repo. The instructions below apply to all practicals.
 
 ## Instructions
+If you have not already done so, follow the steps given on the VLE in Week 1 Practical 1 (How to work on programming exercises) to create a new repo from this template and clone it to your computer.
 
 **1: View the instructions for each exercise**
 
